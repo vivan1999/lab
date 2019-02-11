@@ -1,3 +1,4 @@
 # lab
 java classes
-change 1 is master
+change 1 in master
+change 2 in master
